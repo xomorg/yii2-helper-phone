@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Org
- * Date: 08.05.2018
- * Time: 15:34
- */
 
 namespace xomorg\helpers;
 
