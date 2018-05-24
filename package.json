@@ -1,0 +1,19 @@
+{
+  "name": "xomorg/yii2-helper-phone",
+  "version": "1.0.2",
+  "description": "Formatting a phone number for Yii 2 framework.",
+  "main": "src/Phone.php",
+  "directories": {
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xomorg/yii2-helper-phone"
+  },
+  "author": "Xomorg <xomorg@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/xomorg/yii2-helper-phone/issues"
+  },
+  "homepage": "https://github.com/xomorg/yii2-helper-phone"
+}
